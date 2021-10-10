@@ -19,6 +19,6 @@ cd
 
 If a command is not showing enough information when running try adding `--verbose` flag e.g.
 ```
-command --versbose
+command --verbose
 ```
 normally commands show just enough information, this will output more info
